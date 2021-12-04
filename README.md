@@ -2,6 +2,8 @@
 Inspired by the game Jet Rush and one of the characters from Final Space (Mooncake).
 The player has to avoid obstacles while flying through the infinite map.
 
+The code base was provided by Jon Macey for the programming unit at Bournemouth University in year 2. 
+
 ![image](https://user-images.githubusercontent.com/78536620/144692039-af37cc9b-e9bc-45bf-a06a-faaf9c8f316f.png)
 
 
